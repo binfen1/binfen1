@@ -78,36 +78,42 @@ I'm passionate about **AI Agents** and **Automation**. Currently exploring the i
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-  <td width="50%">
-    <h3><a href="https://github.com/binfen1/my-skills">📦 my-skills</a></h3>
-    <p>Personal AI Agent skills collection for OpenClaw, Claude Code, and Codex. Includes content collector, book translator, news aggregator, and more.</p>
-    <img src="https://img.shields.io/badge/OpenClaw-FF6B35?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Claude_Code-7952B3?style=flat-square"/>
-  </td>
-  <td width="50%">
-    <h3><a href="https://github.com/binfen1/MetaCom">🔧 MetaCom</a></h3>
-    <p>WPF Serial Port Debugging Assistant - A professional tool for serial communication testing and debugging.</p>
-    <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square"/>
-    <img src="https://img.shields.io/badge/C_Sharp-239120?style=flat-square"/>
-  </td>
-</tr>
-<tr>
-  <td width="50%">
-    <h3><a href="https://github.com/binfen1/awesome-openclaw-tutorial">📚 OpenClaw Tutorial</a></h3>
-    <p>Comprehensive Chinese tutorial for OpenClaw - installation, configuration, use cases, and troubleshooting guide.</p>
-    <img src="https://img.shields.io/badge/Tutorial-4A90D9?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Chinese-FF4B4B?style=flat-square"/>
-  </td>
-  <td width="50%">
-    <h3><a href="https://github.com/binfen1/OpenIVS">👁️ OpenIVS</a></h3>
-    <p>Open Industrial Vision System - A framework for industrial vision inspection projects.</p>
-    <img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Industrial-2196F3?style=flat-square"/>
-  </td>
-</tr>
-</table>
+### 🧞 AI Agents & Skills
+
+| Project | Description |
+|---------|-------------|
+| [📦 my-skills](https://github.com/binfen1/my-skills) | Personal AI Agent skills collection for OpenClaw, Claude Code, and Codex |
+| [🔥 everything-claude-code](https://github.com/binfen1/everything-claude-code) | Agent harness optimization system for Claude Code and Codex |
+| [💡 claude-code-tips](https://github.com/binfen1/claude-code-tips) | 45 tips for getting the most out of Claude Code |
+| [🌐 awesome-claude-skills](https://github.com/binfen1/awesome-claude-skills) | Curated list of awesome Claude Skills and tools |
+| [📝 translate-book](https://github.com/binfen1/translate-book) | Translate entire books using parallel subagents |
+| [📰 content-collector-skill](https://github.com/binfen1/content-collector-skill) | Auto-collect social media content to structured notes |
+
+### 🤖 AI Applications
+
+| Project | Description |
+|---------|-------------|
+| [🧠 awesome-llm-apps](https://github.com/binfen1/awesome-llm-apps) | Collection of awesome LLM apps with AI Agents and RAG |
+| [🎭 agency-agents](https://github.com/binfen1/agency-agents) | Complete AI agency with specialized expert agents |
+| [💰 ai-hedge-fund](https://github.com/binfen1/ai-hedge-fund) | AI Hedge Fund Team |
+| [🔧 CLI-Anything](https://github.com/binfen1/CLI-Anything) | Making ALL Software Agent-Native |
+
+### 📈 Finance & Analysis
+
+| Project | Description |
+|---------|-------------|
+| [📊 Wyckoff-Analysis](https://github.com/binfen1/Wyckoff-Analysis) | 威科夫分析法分析A股 |
+| [💹 real-time-fund](https://github.com/binfen1/real-time-fund) | 基金实时估值查看工具 |
+| [🎯 polymarket-cli](https://github.com/binfen1/polymarket-cli) | Polymarket prediction market CLI |
+
+### 🛠️ Tools & Systems
+
+| Project | Description |
+|---------|-------------|
+| [🔧 MetaCom](https://github.com/binfen1/MetaCom) | WPF Serial Port Debugging Assistant |
+| [👁️ OpenIVS](https://github.com/binfen1/OpenIVS) | Open Industrial Vision System |
+| [📚 awesome-openclaw-tutorial](https://github.com/binfen1/awesome-openclaw-tutorial) | OpenClaw 中文教程 |
+| [📺 polaris](https://github.com/binfen1/polaris) | TV/Movie tracking and downloading app |
 
 ---
 
