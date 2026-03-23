@@ -116,6 +116,7 @@ I'm passionate about **AI Agents** and **Automation**. Currently exploring the i
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-binfen1-181717?style=for-the-badge&logo=github)](https://github.com/binfen1)
+[![Email](https://img.shields.io/badge/Email-aaa2283018463@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook)](mailto:aaa2283018463@outlook.com)
 
 </div>
 
